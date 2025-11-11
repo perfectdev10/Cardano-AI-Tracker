@@ -47,7 +47,7 @@ python test_sentiment.py
 The prototype sentiment analysis results are visualized in the following plots:
 
 ### Social Media data:
-See https://twitter.com/aigenspace for the original posts.
+
 
 Tracking social media sentiment swings:
 
